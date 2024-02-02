@@ -1,3 +1,5 @@
+`score:84` `solve_count:66`
+
 `Misc`, `difficulty:Baby`
 
 Show your jailbreaking techniques and get the flag.

@@ -1,3 +1,5 @@
+`score:500` `solve_count:0`
+
 `Web`, `Clone-and-Pwn`, `difficulty:Schr\u00f6dinger`  
 
 Welcome, seekers of cyber lore,  

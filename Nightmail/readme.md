@@ -1,3 +1,5 @@
+`score:500` `solve_count:0`
+
 `Web`, `Pwn`, `difficulty:Schrödinger`
 
 > You sent a nightmail in the moon's pale glare,

@@ -1,3 +1,5 @@
+`score:378` `solve_count:6`
+
 `Pwn`, `Panasonic (PCSL)`, `difficulty:Schrödinger`
 
 Oh, no, in the middle of our party, there was a strange baby cry coming from the IP Camera.  

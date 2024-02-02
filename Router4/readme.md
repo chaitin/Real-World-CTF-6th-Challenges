@@ -1,3 +1,5 @@
+`score:451` `solve_count:3`
+
 `Pwn`, `Clone-and-Pwn`, `difficulty: Hard`
 
 

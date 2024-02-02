@@ -1,3 +1,5 @@
+`score:500` `solve_count:0`
+
 `Pwn`,   `difficulty:Normal`
 
 Make sure to be very very far away from my b\"\\xCC\\xCC\\xCC\\xCC\\xCC\\xCC\" unless you want to be badly burned.

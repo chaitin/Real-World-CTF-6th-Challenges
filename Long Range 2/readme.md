@@ -1,3 +1,5 @@
+`score:320` `solve_count:9`
+
 `Misc`, `difficulty:Baby`
 
 Of late, whispers doth persist behind mine back. Yesterday, under the studio tower, a peculiar contraption was found by me. I am most intrigued to discover the content of their discourse.

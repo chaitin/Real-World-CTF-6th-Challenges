@@ -1,3 +1,5 @@
+`score:290` `solve_count:11`
+
 `Web`, `difficulty:Baby`
 
 Old CVEs, try to pwn it for fun.

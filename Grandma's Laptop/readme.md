@@ -1,3 +1,5 @@
+`score:500` `solve_count:0`
+
 `Forensics`, `difficulty: Normal` 
 
 > Unfortunately, my grandma has passed away recently. The photos in her laptop  

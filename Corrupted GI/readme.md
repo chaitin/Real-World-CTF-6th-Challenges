@@ -1,3 +1,5 @@
+`score:500` `solve_count:1`
+
 `Pwn`,`difficulty:Normal`
 
 In the realm of code, where the brave ones dwell,  

@@ -1,3 +1,5 @@
+`score:500` `solve_count:1`
+
 `Pwn`,`difficulty:Normal`
 
 In the digital realm, three Cyber Boxes existed, which We called Trinity Box or T-Box.   

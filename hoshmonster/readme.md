@@ -1,3 +1,5 @@
+`score:500` `solve_count:1`
+
 `shellcode`,  `difficulty:Hard`
 
 Thanks to Qiangwangbei organizers for the ~~guest~~stolen challenge!

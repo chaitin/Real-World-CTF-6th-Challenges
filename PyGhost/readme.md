@@ -1,3 +1,5 @@
+`score:500` `solve_count:0`
+
 `Pwn`, `Misc`, `demo`, `difficulty: Schrödinger`
 
 This is an LPE(Local Privilege Escalation) challenge. Your task is to pop a highly-privileged(`nt authority\\system`) cmd.exe as a low-privileged user. Follow these steps to deploy the challenge locally:  

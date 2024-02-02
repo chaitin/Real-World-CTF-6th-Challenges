@@ -1,3 +1,5 @@
+`score:93` `solve_count:57`
+
 `Misc`, `Clone-and-Pwn`, `difficulty:Baby`
 
 I like eat domato, it''s excellent for dom fuzz, try to use your rule!

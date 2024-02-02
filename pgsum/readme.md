@@ -1,3 +1,5 @@
+`score:477` `solve_count:2`
+
 `Pwn`, `difficulty:Normal`
 
 We have added sum support for string to postgresql! Try it out!  
